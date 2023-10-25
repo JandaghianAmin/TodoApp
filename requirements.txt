@@ -1,6 +1,10 @@
+# general modules
 django>3.2,<3.3
 black
 flake8
 psycopg2-binary>=2.9,<3.0
 django-environ>=0.7,<1.0
 djangorestframework
+
+#third party
+drf-yasg[validation]
